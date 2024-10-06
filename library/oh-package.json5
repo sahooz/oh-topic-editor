@@ -1,0 +1,11 @@
+{
+  "name": "@xinyansoft/oh-topic-editor",
+  "version": "0.0.1",
+  "description": "OpenHarmony & HarmonyOS平台上基于RichEditor实现的支持添加话题、@用户的文本编辑组件",
+  "main": "Index.ets",
+  "author": "Sahooz",
+  "license": "MIT",
+  "repository": "https://github.com/sahooz/oh-topic-editor",
+  "homepage": "https://blog.xinyanruanjian.com",
+  "dependencies": {}
+}
